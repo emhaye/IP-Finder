@@ -1,6 +1,6 @@
 # IP-Finder
 
-### IP-Finder Gnome Extension
+#### IP-Finder Gnome Extension coming soon!
 
 This Gnome extension displays information about your public IP address (hostname, country, AS block etc) and a map image of the IP's geolocation. Useful if you use a VPN, or enjoy checking out your internet traffic.
 
