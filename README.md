@@ -10,11 +10,11 @@ Icons courtesy of http://gosquared.com , IP Data courtesy of from http://ipinfo.
 Map image courtesy of Google Maps.
 
 
-##### IP-Finder screen shot!
-
-![A screenshot of IP-Finder](https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip3.png?raw=true)
-
-
 #### Note!
 
 I've updated the code from growing's repo as its not been updated in over a year ill hopefully be adding more features to this extension over time, but as of now it currently works with gnome 3.20 and 3.22 and I'm currently working on 3.24.
+
+
+##### IP-Finder screen shot!
+
+![A screenshot of IP-Finder](https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip3.png?raw=true)
