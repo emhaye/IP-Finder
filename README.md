@@ -14,7 +14,7 @@ Map image courtesy of Google Maps.
 
 ##### IP-Finder screen shot!
 
-(https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip3.png)
+![A screenshot of IP-Finder](https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip3.png?raw=true)
 
 
 #### Note!
