@@ -12,6 +12,11 @@ IP Data courtesy of from http://ipinfo.io/ and http://icanhazip.com
 
 Map image courtesy of Google Maps.
 
+##### IP-Finder screen shot!
+
+(https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip3.png)
+
+
 #### Note!
 
 Ive updated the code from growing's repo as its not been updated in over a year ill hopefully add more to this extension over time, but as of now it currently works with gnome 3.20,3.22
