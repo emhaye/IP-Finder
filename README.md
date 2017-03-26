@@ -4,7 +4,7 @@
 
 This Gnome extension displays information about your public IP address (hostname, country, AS block etc) and a map image of the IP's geolocation. Useful if you use a VPN, or enjoy checking out your internet traffic.
 
-Note: the ip data is not retrieved using HTTPS (because that requires a paid account with ipinfo.io), so if you ultimate securety, I wouldn't rely on this extension to determine whether or not you are connected to a VPN.
+Note: the ip data is not retrieved using HTTPS (because that requires a paid account with ipinfo.io), so if your goal is ultimate securety, I wouldn't rely on this extension to determine whether or not you are connected securley.
 
 Icons courtesy of http://gosquared.com , IP Data courtesy of from http://ipinfo.io/ and http://icanhazip.com
 Map image courtesy of Google Maps.
