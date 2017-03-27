@@ -11,7 +11,7 @@ Map image courtesy of Google Maps.
 
 #### Installation
 
-You can now install this extension from Gnome extensions website by clicking on the link [Download](https://extensions.gnome.org/extension/1190/ip-finder/)
+You can now install this extension from Gnome extensions website by clicking on the [Download Link](https://extensions.gnome.org/extension/1190/ip-finder/)
 
 
 Note: I've updated the code from growing's repo as its not been updated in over a year ill hopefully be adding more features to this extension over time, but as of now it currently works with gnome 3.20 and 3.22 and I'm currently working on 3.24.
