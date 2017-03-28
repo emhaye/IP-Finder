@@ -26,9 +26,9 @@ I've updated the code base from growing's repo as its not been updated in over a
 
 ### Installation
 
-You can now install this extension from Gnome extensions website by clicking on the link below 
-> [Installation  Link](https://extensions.gnome.org/extension/1190/ip-finder/)
+You can now install this extension from Gnome extensions website by clicking on the link below; 
 
+> [Installation  Link](https://extensions.gnome.org/extension/1190/ip-finder/)
 
 ## 
 
@@ -54,9 +54,10 @@ Bugs & issues should be reported [here](https://github.com/LinxGem33/IP-Finder/i
 
 ### Contributions & Suggestions
 
-Any suggestions for features and contributions to the continuing code development can be made on IP Finder's Github page via the issue tracker or code contributions via pull requests
+Any suggestions for features and contributions to the continuing code development can be made on IP Finder's Github page via the issue tracker or code contributions via a pull request.
 
 ## 
+
 > **IP-Finder screenshot!**
 
 ![A screenshot of IP-Finder](https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip3.png?raw=true)
