@@ -54,7 +54,7 @@ Bugs & issues should be reported [here](https://github.com/LinxGem33/IP-Finder/i
 
 ### License & Terms
 
-IP Finder is available under the terms of the GPL-3.0. See `COPYING` for details.
+IP Finder is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/IP-Finder/blob/master/COPYING) for details.
 
 ## 
 
