@@ -12,12 +12,12 @@ I've updated the code base from growing's repo as its not been updated in over a
 
 ## Where is IP Finder's data retrieved from?
 
-Icons courtesy of http://gosquared.com , IP Data courtesy of from http://ipinfo.io/ and http://icanhazip.com
+Icons courtesy of http://gosquared.com , IP Data courtesy of  http://ipinfo.io/ and http://icanhazip.com
 Map image courtesy of Google Maps.
 
 ## Installation
 
-You can now install this extension from Gnome extensions website by clicking on this 
+You can now install this extension from Gnome extensions website by clicking on the link below 
 > [Installation  Link](https://extensions.gnome.org/extension/1190/ip-finder/)
 
 
