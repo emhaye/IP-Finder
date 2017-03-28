@@ -38,9 +38,15 @@ You can now install this extension from Gnome extensions website by clicking on 
 
 ## 
 
+### Issues & Bugs
+
+Bugs & issues should be reported [here](https://github.com/LinxGem33/IP-Finder/issues) on the Github issues page.
+
+## 
+
 ### Contributions & Suggestions
 
-Any suggestions for features and contributions to the continuing code development can be made on my Github page via the issue tracker or code contributions via pull requests
+Any suggestions for features and contributions to the continuing code development can be made on IP Finder's Github page via the issue tracker or code contributions via pull requests
 
 ## 
 > **IP-Finder screenshot!**
