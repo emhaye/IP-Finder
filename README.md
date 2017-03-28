@@ -6,7 +6,7 @@ IP Finder displays information about your public IP address (hostname, country, 
 
 ## Additional Information!
 
-The ip data is not retrieved using HTTPS at the moment, (because that requires a paid account with ipinfo.io), so if your goal is ultimate securety, I wouldn't rely on this extension as it does not retrive IP lookups using HTTPS for secure lookups.
+The ip data is not retrieved using HTTPS at the moment, (because that requires a paid account with ipinfo.io), so if your goal is ultimate securety, I wouldn't rely on this extension as it does not retrieve IP lookups using HTTPS for secure lookups.
 
 I've updated the code base from growing's repo as its not been updated in over a year ill hopefully be adding more features to this extension over time, but as of now it currently works with gnome 3.20 & 3.22 I'm also currently working on 3.24.
 
@@ -32,6 +32,8 @@ You can now install this extension from Gnome extensions website by clicking on 
 - [ ] Add a copy & paste feature
 - [ ] Add support for ipv6 addresses
 - [ ] Update needed flag icons
+
+
 
 
 ## IP-Finder screenshot!
