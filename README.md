@@ -4,13 +4,17 @@
 
 IP Finder displays information about your public IP address (hostname, country, AS block etc) as well as show a map & flag image of the IP's geolocation this extension is also useful for informational purposes to monitor VPN geolocation and public network IP addresses.
 
-## Additional Information!
+## 
+
+### Additional Information!
 
 The ip data is not retrieved using HTTPS at the moment, (because that requires a paid account with ipinfo.io), so if your goal is ultimate securety, I wouldn't rely on this extension as it does not retrieve IP lookups using HTTPS for secure lookups.
 
 I've updated the code base from growing's repo as its not been updated in over a year ill hopefully be adding more features to this extension over time, but as of now it currently works with gnome 3.20 & 3.22 I'm also currently working on 3.24.
 
-## Where is IP Finder's data retrieved from?
+## 
+
+### Where is IP Finder's data retrieved from?
 
 > Icons courtesy of [gosquared.com](http://gosquared.com)
 
