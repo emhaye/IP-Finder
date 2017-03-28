@@ -1,6 +1,6 @@
 # ![IP Finder](https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip-address3.png?raw=true) IP Finder
 
-## What is IP-Finder Gnome Extension?
+## What is IP Finder Gnome Extension?
 
 IP Finder displays information about your public IP address (hostname, country, AS block etc) as well as show a map & flag image of the IP's geolocation this extension is also useful for informational purposes to monitor VPN geolocation and public network IP addresses.
 
