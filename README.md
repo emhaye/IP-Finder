@@ -1,4 +1,4 @@
-# ![IP Finder](https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip-address3.png?raw=true)
+# ![IP Finder](https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip-address3.png?raw=true) IP Finder
 
 ## What is IP-Finder Gnome Extension?
 
