@@ -52,6 +52,12 @@ Bugs & issues should be reported [here](https://github.com/LinxGem33/IP-Finder/i
 
 ## 
 
+### License & Terms
+
+IP Finder is available under the terms of the GPL-3.0. See `COPYING` for details.
+
+## 
+
 ### Contributions & Suggestions
 
 Any suggestions for features and contributions to the continuing code development can be made on IP Finder's Github page via the issue tracker or code contributions via a pull request.
