@@ -8,7 +8,7 @@ IP Finder displays information about your public IP address (hostname, country, 
 
 ### Additional Information!
 
-The ip data is not retrieved using HTTPS at the moment, (because that requires a paid account with ipinfo.io), so if your goal is ultimate securety, I wouldn't rely on this extension as it does not retrieve IP lookups using HTTPS for secure lookups.
+The ip data is not retrieved using HTTPS at the moment, so if your goal is ultimate securety, I wouldn't rely on this extension as it does not retrieve IP lookups using HTTPS at the moment, but dont worry it is one of the planned features hopefully soon to be implemented in a future release.
 
 I've updated the code base from growing's repo as its not been updated in over a year ill hopefully be adding more features to this extension over time, but as of now it currently works with gnome 3.20 & 3.22 I'm also currently working on 3.24.
 
