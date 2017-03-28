@@ -1,4 +1,4 @@
-# IP-Finder
+# ![IP-Finder](http://assets1.csc.com/about_us/images/globe_icon.png) 
 
 ## What is IP-Finder Gnome Extension?
 
