@@ -12,7 +12,11 @@ I've updated the code base from growing's repo as its not been updated in over a
 
 ## Where is IP Finder's data retrieved from?
 
-Icons courtesy of [gosquared.com](http://gosquared.com) , IP Data courtesy of  [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com) and the Map image is courtesy of [Google Maps](https://www.google.com/maps).
+> Icons courtesy of [gosquared.com](http://gosquared.com)
+
+> IP Data courtesy of  [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com)
+
+> The Map image is courtesy of [Google Maps](https://www.google.com/maps).
 
 ## 
 
@@ -40,7 +44,7 @@ You can now install this extension from Gnome extensions website by clicking on 
 
 ### Issues & Bugs
 
-Bugs & issues should be reported [here](https://github.com/LinxGem33/IP-Finder/issues) on the Github issues page.
+Bugs & issues should be reported [here](https://github.com/LinxGem33/IP-Finder/issues) on the Github issues tracker page.
 
 ## 
 
