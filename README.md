@@ -12,7 +12,7 @@ I've updated the code base from growing's repo as its not been updated in over a
 
 ## Where is IP Finder's data retrieved from?
 
-Icons courtesy of [gosquared.com](http://gosquared.com) , IP Data courtesy of  [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com) and the Map image is courtesy of [Google Maps](https://www.googlemaps.com).
+Icons courtesy of [gosquared.com](http://gosquared.com) , IP Data courtesy of  [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com) and the Map image is courtesy of [Google Maps](https://www.google.com/maps).
 
 ## Installation
 
