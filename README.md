@@ -2,7 +2,7 @@
 
 ## What is IP-Finder Gnome Extension?
 
-IP Finder displays information about your public IP address (hostname, country, AS block etc) and a map image of the IP's geolocation this extension is also good for informational use to monitor VPN geolocation and public network IP addresses.
+IP Finder displays information about your public IP address (hostname, country, AS block etc) as well as show a map & flag image of the IP's geolocation this extension is also useful for informational purposes to monitor VPN geolocation and public network IP addresses.
 
 ## Additional Information!
 
