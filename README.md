@@ -34,8 +34,6 @@ You can now install this extension from Gnome extensions website by clicking on 
 - [ ] Update needed flag icons
 
 
-
-
 ## 
 > **IP-Finder screenshot!**
 
