@@ -36,6 +36,7 @@ You can now install this extension from Gnome extensions website by clicking on 
 
 
 
-## IP-Finder screenshot!
+## 
+> **IP-Finder screenshot!**
 
 ![A screenshot of IP-Finder](https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip3.png?raw=true)
