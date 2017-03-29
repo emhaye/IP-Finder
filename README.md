@@ -69,4 +69,3 @@ Any suggestions for features and contributions to the continuing code developmen
 ![](https://github.com/LinxGem33/IP-Finder/blob/master/screens/dip.png?raw=true)
 
 ![](https://github.com/LinxGem33/IP-Finder/blob/master/screens/ip3.png?raw=true) 
-
