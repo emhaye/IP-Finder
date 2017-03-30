@@ -21,20 +21,26 @@ const IPMenuSettingsWidget = new GObject.Class({
   GTypeName: 'IPMenuSettingsWidget',
   Extends: Gtk.Grid,
 
-  _init: function() {
-    this.parent();
-    this.margin = 100; //this is a fudge to get the settings to center as I couldn't work out how to resize the parent dialog
-    this.row_spacing = 6;
-
-    this.orientation = Gtk.Orientation.VERTICAL;
+  _init: function (params) {
+        this.parent(params);
+        this.margin = 24;
+        this.row_spacing = 6;
+this.orientation = Gtk.Orientation.VERTICAL;
 
     this._settings = Convenience.getSettings(Me.metadata['settings-schema']);
+ 
+let presentLabel = '<b>' + _("Display Options") + '</b>';
+        this.add(new Gtk.Label({
+            label: presentLabel, use_markup: true,
+            halign: Gtk.Align.START
+    }));
+
 
     let vbox = new Gtk.VBox();
     this.add(vbox);
 
     let checkContainer = new Gtk.HBox({spacing: 5});
-    let checkLabel = new Gtk.Label({label: _('Only show flag in Toolbar')});
+    let checkLabel = new Gtk.Label({label: _('Only Show Flag on Panel')});
     let checkButton = new Gtk.CheckButton();
 
     checkContainer.pack_start(checkLabel, 0,0,0);
@@ -45,7 +51,7 @@ const IPMenuSettingsWidget = new GObject.Class({
     vbox.add(checkContainer);
 
     let positionContainer = new Gtk.HBox({spacing: 5});
-    let positionLabel = new Gtk.Label({label: _('Toolbar position')});
+    let positionLabel = new Gtk.Label({label: _('IP Finder Position on the Panel')});
     let positionSelector = new Gtk.ComboBoxText();
 
     positionContainer.pack_start(positionLabel, 0,0,0);
@@ -67,7 +73,7 @@ const IPMenuSettingsWidget = new GObject.Class({
 
     //
     let frequencyContainer = new Gtk.HBox({spacing: 5});
-    let frequencyLabel = new Gtk.Label({label: _('How often to check for IP change (secs)')});
+    let frequencyLabel = new Gtk.Label({label: _('How Often to check for IP changes (in secs)')});
     let frequencySelector = new Gtk.SpinButton();
 
     frequencyContainer.pack_start(frequencyLabel, 0,0,0);
