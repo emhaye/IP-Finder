@@ -18,7 +18,9 @@ IP Finder displays information about your public IP address (hostname, country, 
 
 ### Additional Information!
 
-I've updated the code base from growing's repo as its not been updated in over a year ill hopefully be adding more features to this extension over time, so whats new in version 2 of IP Finder, I've updated support for gnome 3.20 &amp; 3.22 as well as 3.24 the  CSS style sheet has been updated for better integration with gnome shell &amp; light and dark themes, the default no connection flag has now been change to something more neutral, API calls have now been changed to use HTTPS along with a refresh of the layout of prefs.js and lastly but not least there is a new default map icon.
+I've updated the code base from growing's repo as its not been updated in over a year ill hopefully be adding more features to this extension over time, so whats new in version 2 of IP Finder? 
+
+I've updated support for gnome 3.20 &amp; 3.22 as well as 3.24 the  CSS style sheet has been updated for better integration with gnome shell &amp; light and dark themes, the default no connection flag has now been change to something more neutral, API calls have now been changed to use HTTPS along with a refresh of the layout of prefs.js and lastly but not least there is a new default map icon.
 
 ## 
 
