@@ -41,7 +41,7 @@ You can now install this extension from Gnome extensions website by clicking on 
 | :------------- |--- |:------------- |---|
 | Add support for gnome 3.20 & 3.22 |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | #3.. `N/A completed` |100%
 |Fix css style sheet |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)  |#5.. `N/A completed` |100%
-|#3.. Change HTTP lookups to HTTPS  | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)|#6.. `N/A completed` | 100%
+|#3.. Change HTTP calls to HTTPS  | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)|#6.. `N/A completed` | 100%
 |Update layout of prefs.js |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |Add a link to a leak test service|0%
 |#5..Change default icon flag|![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |Add support for ipv6 addresses|0%
 |#6..Update needed flag icons| ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)|Add a copy & paste feature |5%
