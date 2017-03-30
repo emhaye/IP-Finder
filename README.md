@@ -34,7 +34,7 @@ You can now install this extension from Gnome extensions website by clicking on 
 
 ## 
 
-### Planned Features!
+### Feature Development Tracker!
 
 
 | Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)| In Progress Tasks |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true)|
