@@ -11,7 +11,7 @@ IP Finder displays information about your public IP address (hostname, country, 
 **Flag Icons:** 
 
 > Flag Icons used in IP Finder's extension are courtesy of: [gosquared.com](http://gosquared.com), 
-Featuring thousands of high-quality flags, covering every country in the world.
+featuring thousands of high-quality flags, covering every country in the world.
 
 **IP Data:** 
 
