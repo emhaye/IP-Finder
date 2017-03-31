@@ -11,7 +11,7 @@ IP Finder displays information about your public IP address (hostname, country, 
 **Flag Icons:** featuring thousands of high-quality flags, covering every country in the world.
 > Flag Icons used in IP Finder's extension are courtesy of: [gosquared.com](http://gosquared.com)
 
-**IP Data**
+**IP Data:** ipinfo.io IP lookup API to quickly and simply integrate IP geolocation.
 
 > IP Data used for API calls are courtesy of: [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com)
 
