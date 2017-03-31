@@ -12,7 +12,7 @@ IP Finder displays information about your public IP address (hostname, country, 
 
 > IP Data used for API calls are courtesy of: [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com)
 
-> The Map Geolocation Tile Image is courtesy of: [Google Maps](https://www.google.com/maps).
+> The Geolocation Map Tile Image is courtesy of: [Google Maps](https://www.google.com/maps).
 
 ## 
 
