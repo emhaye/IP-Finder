@@ -30,11 +30,12 @@ I've updated support for gnome 3.20 &amp; 3.22 as well as 3.24 the  CSS style sh
 
 You can now install this extension from extensions.gnome.org website by clicking on the link below; 
 
-> [Gnome extensions: Link](https://extensions.gnome.org/extension/1190/ip-finder/)
+> [extensions.gnome.org: Link](https://extensions.gnome.org/extension/1190/ip-finder/)
 
 Or you can also download the latest source code and manually install by clicking on the link below;
 
 > [Source code: Download](https://github.com/LinxGem33/IP-Finder/releases)
+
 
 ## 
 
