@@ -15,7 +15,7 @@ IP Finder displays information about your public IP address (hostname, country, 
 
 > IP Data used for API calls are courtesy of: [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com)
 
-**Map Image**
+**Map Image:** google maps provides geographic data such as geocoding, directions, elevation, place and time zone information.
 
 > The Geolocation Map Tile Image is courtesy of: [Google Maps](https://www.google.com/maps).
 
