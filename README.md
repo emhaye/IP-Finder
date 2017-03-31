@@ -8,8 +8,7 @@ IP Finder displays information about your public IP address (hostname, country, 
 
 ### Where is IP Finder's data retrieved from?
 
-**Flag Icons**
-
+**Flag Icons:** featuring thousands of high-quality flags, covering every country in the world.
 > Flag Icons used in IP Finder's extension are courtesy of: [gosquared.com](http://gosquared.com)
 
 **IP Data**
