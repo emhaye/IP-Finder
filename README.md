@@ -8,14 +8,18 @@ IP Finder displays information about your public IP address (hostname, country, 
 
 ### Where is IP Finder's data retrieved from?
 
-**Flag Icons:** featuring thousands of high-quality flags, covering every country in the world.
+**Flag Icons:** 
+Featuring thousands of high-quality flags, covering every country in the world.
+
 > Flag Icons used in IP Finder's extension are courtesy of: [gosquared.com](http://gosquared.com)
 
-**IP Data:** ipinfo.io IP lookup API to quickly and simply integrate IP geolocation.
+**IP Data:** 
+ipinfo.io IP lookup API to quickly and simply integrate IP geolocation.
 
 > IP Data used for API calls are courtesy of: [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com)
 
-**Map Image:** google maps provides geographic data such as geocoding, directions, elevation, place and time zone information.
+**Map Image:** 
+Google maps provides geographic data such as geocoding, directions, elevation, place and time zone information.
 
 > The Geolocation Map Tile Image is courtesy of: [Google Maps](https://www.google.com/maps).
 
