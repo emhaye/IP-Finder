@@ -24,7 +24,7 @@ featuring thousands of high-quality flags, covering every country in the world.
 
 ## 
 
-### Installation
+### How do i Install IP Finder?
 
 You can now install this extension from extensions.gnome.org website by clicking on the link below; 
 
