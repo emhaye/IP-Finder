@@ -24,16 +24,6 @@ featuring thousands of high-quality flags, covering every country in the world.
 
 ## 
 
-### Additional Information!
-
-I've updated the code base from growing's repo as its not been updated in over a year ill hopefully be adding more features to this extension over time. 
-
-> [**So whats new in version 2 of IP Finder?** ](https://github.com/LinxGem33/IP-Finder/releases)
-
-I've updated support for gnome 3.20 &amp; 3.22 as well as 3.24 the  CSS style sheet has been updated for better integration with gnome shell and better readability with light and dark themes, the default no connection flag has now been changed to something more neutral, API calls have now been changed to use HTTPS along with a refresh of the layout of prefs.js and lastly but not least there is a new default map icon.
-
-## 
-
 ### Installation
 
 You can now install this extension from extensions.gnome.org website by clicking on the link below; 
@@ -44,6 +34,15 @@ Or you can also download the latest source code and manually install by clicking
 
 > [Source code: Download](https://github.com/LinxGem33/IP-Finder/releases)
 
+##
+
+### Additional Information!
+
+I've updated the code base from growing's repo as its not been updated in over a year ill hopefully be adding more features to this extension over time. 
+
+> [**So whats new in version 2 of IP Finder?** ](https://github.com/LinxGem33/IP-Finder/releases)
+
+I've updated support for gnome 3.20 &amp; 3.22 as well as 3.24 the  CSS style sheet has been updated for better integration with gnome shell and better readability with light and dark themes, the default no connection flag has now been changed to something more neutral, API calls have now been changed to use HTTPS along with a refresh of the layout of prefs.js and lastly but not least there is a new default map icon.
 
 ## 
 
