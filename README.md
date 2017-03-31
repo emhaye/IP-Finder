@@ -10,7 +10,9 @@ IP Finder displays information about your public IP address (hostname, country, 
 
 > Icons courtesy of [gosquared.com](http://gosquared.com)
 
-> IP Data courtesy of  [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com)
+IP Data used for API calls are courtesy of; 
+
+> [ipinfo.io](http://ipinfo.io/) & [icanhazip.com](http://icanhazip.com)
 
 > The Map image is courtesy of [Google Maps](https://www.google.com/maps).
 
