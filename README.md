@@ -72,7 +72,7 @@ Bugs & issues should be reported [here](https://github.com/LinxGem33/IP-Finder/i
 
 If your unsure about anything or need a bit more help and support with IP Finder or just want to know a bit more about this extension and what it can do for you just head over to the Wiki page by clicking on the link below:
 
-> [IP Finder's Wiki page](https://github.com/LinxGem33/IP-Finder/wiki)
+> [IP Finder's Wiki](https://github.com/LinxGem33/IP-Finder/wiki)
 
 ##
 
