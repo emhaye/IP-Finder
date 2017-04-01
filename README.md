@@ -68,6 +68,14 @@ Bugs & issues should be reported [here](https://github.com/LinxGem33/IP-Finder/i
 
 ## 
 
+### Help & Support
+
+If your unsure about anything or need a bit more help and support with IP Finder or just want to know a bit more about this extension and what it can do for you just head over to the WIKI page by clicking on the link below:
+
+[IP Finder's WIKI page](https://github.com/LinxGem33/IP-Finder/wiki)
+
+##
+
 ### License & Terms
 
 IP Finder is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/IP-Finder/blob/master/COPYING) for details.
