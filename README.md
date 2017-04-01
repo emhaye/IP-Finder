@@ -56,7 +56,7 @@ I've updated support for gnome 3.20 &amp; 3.22 as well as 3.24 the  CSS style sh
 |#3.. Change HTTP calls to HTTPS  | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)|#6.. `N/A completed` | 100%
 |Update layout of prefs.js |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |Add a link to a leak test service|0%
 |#5..Change default icon flag|![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |Add support for ipv6 addresses|0%
-|#6..Update needed flag icons| ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)|Add a copy & paste feature |5%
+|#6..Update needed flag icons| ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)|Add copy to clipboard feature |5%
 |#7..Add support for gnome 3.24|![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |#7.. `N/A completed`  |100%
 |New default map icon|![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)||
 
