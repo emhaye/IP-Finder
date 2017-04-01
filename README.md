@@ -28,11 +28,11 @@ featuring thousands of high-quality flags, covering every country in the world.
 
 You can now install this extension from extensions.gnome.org website by clicking on the link below; 
 
-> [extensions.gnome.org: Link](https://extensions.gnome.org/extension/1190/ip-finder/)
+> [extensions.gnome.org](https://extensions.gnome.org/extension/1190/ip-finder/)
 
 Or you can also download the latest source code and manually install by clicking on the link below;
 
-> [Source code: Download](https://github.com/LinxGem33/IP-Finder/releases)
+> [Source code](https://github.com/LinxGem33/IP-Finder/releases)
 
 ##
 
