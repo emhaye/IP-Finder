@@ -39,7 +39,7 @@ const PopupMenu = imports.ui.popupMenu;
 const Panel = imports.ui.panel;
 const Mainloop = imports.mainloop;
 
-const Gettext = imports.gettext.domain('gnome-shell-extensions');
+const Gettext = imports.gettext.domain('IP-Finder');
 const _ = Gettext.gettext;
 const N_ = function(x) { return x; };
 
@@ -123,7 +123,7 @@ function _getIP(callback) {
 }
 
 const DEFAULT_DATA = {
-  ip: 'No Connection',
+  ip: _("No Connection"),
   hostname: '',
   city: '',
   region: '',
@@ -189,7 +189,7 @@ const IPMenu = new Lang.Class({ //menu bar item
     Object.keys(DEFAULT_DATA).map(function(key) {
       let ipInfoRow = new St.BoxLayout();
       ipInfoBox.add_actor(ipInfoRow);
-      ipInfoRow.add_actor(new St.Label({style_class: 'ip-info-key', text: key + ': '}));
+      ipInfoRow.add_actor(new St.Label({style_class: 'ip-info-key', text: _(key) + ': '}));
       this['_' + key] = new St.Label({style_class: 'ip-info-value', text: DEFAULT_DATA[key]});
       ipInfoRow.add_actor(this['_' + key]);
     });
@@ -314,7 +314,7 @@ const IPMenu = new Lang.Class({ //menu bar item
 });
 
 function init() {
-
+  Convenience.initTranslations("IP-Finder");
 }
 
 let _indicator;
