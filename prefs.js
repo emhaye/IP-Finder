@@ -31,7 +31,7 @@ const ExtensionUtils = imports.misc.extensionUtils;
 const Me = ExtensionUtils.getCurrentExtension();
 const Convenience = Me.imports.convenience;
 
-const Gettext = imports.gettext.domain('IP-Finder');
+const Gettext = imports.gettext.domain('gnome-shell-extensions');
 const _ = Gettext.gettext;
 
 const SETTINGS_COMPACT_MODE = 'compact-mode';
@@ -79,7 +79,7 @@ let presentLabel = '<b>' + _("Display Options") + '</b>';
     positionContainer.pack_start(positionLabel, 0,0,0);
     positionContainer.pack_end(positionSelector, 0,0,0);
 
-    [_("left"),_("center"),_("right")].forEach(function(item) {
+    ['left','center','right'].forEach(function(item) {
       positionSelector.append_text(item);
     });
 
@@ -115,7 +115,6 @@ let presentLabel = '<b>' + _("Display Options") + '</b>';
 });
 
 function init() {
-  Convenience.initTranslations("IP-Finder");
 }
 
 function buildPrefsWidget() {
