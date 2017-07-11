@@ -31,7 +31,6 @@ const Shell = imports.gi.Shell;
 const St = imports.gi.St;
 const Tweener = imports.ui.tweener;
 const Gtk = imports.gi.Gtk;
-const GtkClutter = imports.gi.GtkClutter;
 const Main = imports.ui.main;
 
 const PanelMenu = imports.ui.panelMenu;
