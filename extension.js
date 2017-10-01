@@ -192,14 +192,13 @@ const IPMenu = new Lang.Class({ //menu bar item
       let ipInfoRow = new St.BoxLayout();
       ipInfoBox.add_actor(ipInfoRow);
       ipInfoRow.add_actor(new St.Label({style_class: 'ip-info-key', text: _(key) + ': '}));
-      let label = new St.Button({child: new St.Label({style_class: 'ip-info-value', text: DEFAULT_DATA[key]})});
 
-      label.connect('button-press-event', function() {
-        Clipboard.set_text(CLIPBOARD_TYPE, label.child.text);
+      let dataLabelBtn = new St.Button({child: new St.Label({style_class: 'ip-info-value', text: DEFAULT_DATA[key]})});
+      dataLabelBtn.connect('button-press-event', function() {
+        Clipboard.set_text(CLIPBOARD_TYPE, dataLabelBtn.child.text);
       });
-
-      ipInfoRow.add_actor(label);
-      this['_' + key] = label;
+      ipInfoRow.add_actor(dataLabelBtn);
+      this['_' + key] = dataLabelBtn;
     });
 
     let _appSys = Shell.AppSystem.get_default();
