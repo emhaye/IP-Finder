@@ -1,7 +1,7 @@
 /*
  * IP Finder gnome extension
  * https://github.com/LinxGem33/IP-Finder
- * 
+ *
  * Copyright (C) 2017 LinxGem33 (Andy C)
  *
  * This file is part of IP Finder gnome extension.
@@ -17,7 +17,7 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with IP Finder gnome extension.  If not, see <http://www.gnu.org/licenses/>.
- * 
+ *
  */
 
 /* -*- mode: js2; js2-basic-offset: 4; indent-tabs-mode: nil -*- */
@@ -189,8 +189,14 @@ const IPMenu = new Lang.Class({ //menu bar item
       let ipInfoRow = new St.BoxLayout();
       ipInfoBox.add_actor(ipInfoRow);
       ipInfoRow.add_actor(new St.Label({style_class: 'ip-info-key', text: _(key) + ': '}));
-      this['_' + key] = new St.Label({style_class: 'ip-info-value', text: DEFAULT_DATA[key]});
-      ipInfoRow.add_actor(this['_' + key]);
+      let label = new St.Button({child: new St.Label({style_class: 'ip-info-value', text: DEFAULT_DATA[key]})});
+
+      label.connect('button-press-event', function() {
+        label.child.text = "Test";
+      });
+
+      ipInfoRow.add_actor(label);
+      this['_' + key] = label;
     });
 
     let _appSys = Shell.AppSystem.get_default();
@@ -296,7 +302,7 @@ const IPMenu = new Lang.Class({ //menu bar item
             self._label.text = self._compactMode ? '' : ipData.ip;
 
             Object.keys(ipData).map(function(key) {
-              this['_' + key].text = ipData[key];
+              this['_' + key].child.text = ipData[key];
             });
 
             self._icon.gicon = Gio.icon_new_for_string(Me.path + '/icons/flags/' + ipData.country + '.png');
