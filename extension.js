@@ -47,6 +47,9 @@ const Me = ExtensionUtils.getCurrentExtension();
 const Convenience = Me.imports.convenience;
 const Soup = imports.gi.Soup;
 
+const Clipboard = St.Clipboard.get_default();
+const CLIPBOARD_TYPE = St.ClipboardType.CLIPBOARD;
+
 const Metadata = Me.metadata;
 
 const ICON_SIZE = 16;
@@ -192,7 +195,7 @@ const IPMenu = new Lang.Class({ //menu bar item
       let label = new St.Button({child: new St.Label({style_class: 'ip-info-value', text: DEFAULT_DATA[key]})});
 
       label.connect('button-press-event', function() {
-        label.child.text = "Test";
+        Clipboard.set_text(CLIPBOARD_TYPE, label.child.text);
       });
 
       ipInfoRow.add_actor(label);
